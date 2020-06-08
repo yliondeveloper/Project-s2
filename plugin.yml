@@ -1,0 +1,4 @@
+name: PartyGames
+version: 0.1
+author: yLionCodes
+main: me.servidor.games.principal.PartyGames
